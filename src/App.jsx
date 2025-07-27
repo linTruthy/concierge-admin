@@ -32,7 +32,7 @@ const mockRequests = [
   {
     id: 'req_1',
     title: 'Dinner Reservation',
-    description: 'Please book a table for 4 at Le Bernardin for Friday evening at 8 PM.',
+    description: 'Please xbook a table for 4 at Le Bernardin for Friday evening at 8 PM.',
     category: 'dining',
     priority: 'normal',
     status: 'completed',
